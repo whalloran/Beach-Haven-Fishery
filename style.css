@@ -61,10 +61,6 @@
 /* Responzive Navigation Bar */
 
 .topnav {
-  
-  background: url('img/mainnav_bg.png');
-  background-repeat: no-repeat;
-  background-size: cover;
   overflow: hidden;
 }
 
